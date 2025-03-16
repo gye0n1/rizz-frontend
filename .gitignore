@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/react,visualstudiocode,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=react,visualstudiocode,macos
+# Created by https://www.toptal.com/developers/gitignore/api/react,macos,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=react,macos,visualstudiocode
 
 ### macOS ###
 # General
@@ -29,6 +29,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+node_modules/
 
 ### macOS Patch ###
 # iCloud generated files
@@ -69,4 +70,4 @@ sketch
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/react,visualstudiocode,macos
+# End of https://www.toptal.com/developers/gitignore/api/react,macos,visualstudiocode
